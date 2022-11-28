@@ -6,7 +6,7 @@
 [![Tik Tok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@willchef81)
 
 
-![WilliamFereira GitHub stats](https://github-readme-stats.vercel.app/api?username=williamferreiradev&show_icons=true&theme=radical) 
+![WilliamFereira GitHub stats](https://github-readme-stats.vercel.app/api?username=williamferreiradev&show_icons=true&theme=radical locale=pt-br) 
 
 ## Tecnologias usadas no dia a dia 
 
